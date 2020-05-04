@@ -1,1 +1,1 @@
-GET https://finnhub.io/api/v1/quote?symbol=AAPL&token=bqmais7rh5rf7sg618f0
+GET https://finnhub.io/api/v1/quote?symbol=AAPL&token={token}
